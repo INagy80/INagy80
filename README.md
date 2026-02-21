@@ -89,7 +89,7 @@
 | Project Name     | Description                    | Tech Stack                                               | Link           |
 | ---------------- | ------------------------------ | -------------------------------------------------------- | -------------- |
 | **Domines Game** | Web-based Dominoes game        | Spring Boot, React, Docker, PostgreSQL                   | *[Domines](https://github.com/INagy80/Dominoes)* |
-| **SEP Drive**    | Ride-sharing app (Uni Project) | Spring Boot, Angular, WebSocket, JWT, Docker, PostgreSQL | *[SEP_Drive]([https://github.com/INagy80/SEP_Drive](https://github.com/INagy80/SEP-Drive))* |
+| **SEP Drive**    | Ride-sharing app (Uni Project) | Spring Boot, Angular, WebSocket, JWT, Docker, PostgreSQL | *[SEP-Drive](https://github.com/INagy80/SEP-Drive)* |
 
 > 🚧 More projects coming soon!<br>
 > 🔗 *Links to repos will be updated here.*
