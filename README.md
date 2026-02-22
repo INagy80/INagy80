@@ -90,6 +90,7 @@
 | ---------------- | ------------------------------ | -------------------------------------------------------- | -------------- |
 | **Domines Game** | Web-based Dominoes game        | Spring Boot, React, Docker, PostgreSQL                   | *[Domines](https://github.com/INagy80/Dominoes)* |
 | **SEP Drive**    | Ride-sharing app (Uni Project) | Spring Boot, Angular, WebSocket, JWT, Docker, PostgreSQL | *[SEP-Drive](https://github.com/INagy80/SEP-Drive)* |
+| **Husarion_Panther** | autonomous exploration and Navigation robot | ros2, Nav2 stack, explore_lite, rviz, gazebo, python, c++| *[Husarion_Panther](https://github.com/INagy80/Husarion_Panther)* |
 
 > 🚧 More projects coming soon!<br>
 > 🔗 *Links to repos will be updated here.*
