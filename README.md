@@ -1,19 +1,13 @@
 <!-- Avatar and Banner -->
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ibrahim+Sayed!;" />
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=INagy80.INagy80" />
 </h1>
 
-
 <br/>
 
-
-<p align="center">🚀 Full-Stack Developer & Penetration Tester-in-Training</p>
-
-
-
+<p align="center">🚀 Full-Stack Developer • Cloud & DevOps • Penetration Tester-in-Training • Robotics</p>
 
 <p align="center">
   <a href="#about-me">About Me</a> •
@@ -25,13 +19,14 @@
 
 ---
 
-
 ## 📝 About Me
 
-* 🎓 Final-year **Software Engineering** student at Duisburg-Essen University
-* 💻 Passionate **Full-Stack Developer** & budding **Penetration Tester**
+* 🎓 Final-year **Software Engineering** student at the University of Duisburg-Essen
+* 💻 Full-Stack Developer building and operating **production systems for real clients**
+* ☁️ Practical experience with **cloud infrastructure, CI/CD, and containerized deployments**
+* 🤖 Built an autonomous **ROS2 navigation stack** for a mobile robot (SLAM, EKF, A*, Nav2)
+* 🔐 Cybersecurity enthusiast: Hack The Box, TCM Security training, CTF challenges
 * ♟️ Chess player, book lover, swimmer & horse riding enthusiast
-* 🔐 Cybersecurity hobbyist: Hack The Box, TryHackMe challenges, and more
 
 ---
 
@@ -39,57 +34,57 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java\&logoColor=white) ![C++](https://img.shields.io/badge/C++-3776AB?logo=C++\&logoColor=blue) ![C](https://img.shields.io/badge/C-3776AB?logo=C++\&logoColor=blue)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Frontend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot\&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-339933?logo=next.js\&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws\&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Vite](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?logo=bootstrap&logoColor=white) ![Chakra UI](https://img.shields.io/badge/chakra-4ED1C5?logo=chakraui&logoColor=white)
 
+### Databases & Backend-as-a-Service
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-000000?logo=websocket&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FCA121?logo=gazebo&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-0A66C2?logo=ros&logoColor=white)
-![Colcon](https://img.shields.io/badge/Colcon-2E8B57?logo=cmake&logoColor=white)
-![ROS2%20Launch](https://img.shields.io/badge/ROS2%20Launch-4B8BBE?logo=python&logoColor=white)
-![ROS2%20Nodes](https://img.shields.io/badge/ROS2%20Nodes-999999?logo=ubuntu&logoColor=white)
-![URDF](https://img.shields.io/badge/URDF-FFB000?logo=xml&logoColor=white)
-![Gazebo%20Sim](https://img.shields.io/badge/Gazebo%20Sim-FF6F00?logo=googlesheets&logoColor=white)
-![TF2](https://img.shields.io/badge/TF2-0088CC?logo=ros&logoColor=white)
-![SLAM Toolbox](https://img.shields.io/badge/SLAM%20Toolbox-1E88E5?logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-0B8043?logo=ros&logoColor=white)
-![Navigation Stack](https://img.shields.io/badge/Navigation%20Stack-00695C?logo=ros&logoColor=white)
-![Path Planning](https://img.shields.io/badge/Path%20Planning-673AB7?logo=googlemaps&logoColor=white)
-![Localization](https://img.shields.io/badge/Localization-0288D1?logo=ros&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-000000?logo=websocket&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
+### Cloud, DevOps & Deployment
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
+### Monitoring, Testing & Automation
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+
+### Version Control
+
+![GitHub](https://img.shields.io/badge/github-121011?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-181717?logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?logo=git&logoColor=white)
+
+### Robotics & Embedded (ROS2)
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FCA121?logo=gazebo&logoColor=white) ![RViz](https://img.shields.io/badge/RViz-0A66C2?logo=ros&logoColor=white) ![Colcon](https://img.shields.io/badge/Colcon-2E8B57?logo=cmake&logoColor=white) ![URDF](https://img.shields.io/badge/URDF-FFB000?logo=xml&logoColor=white) ![TF2](https://img.shields.io/badge/TF2-0088CC?logo=ros&logoColor=white) ![SLAM Toolbox](https://img.shields.io/badge/SLAM%20Toolbox-1E88E5?logo=ros&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-0B8043?logo=ros&logoColor=white) ![Path Planning](https://img.shields.io/badge/Path%20Planning-673AB7?logo=googlemaps&logoColor=white)
 
 ### Security & Pentesting
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-B34A45?logo=burpsuite\&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-6F2066?logo=metasploit\&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-0478C7?logo=wireshark\&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-EE0000?logo=nmap\&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-D23539?logo=tenable\&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux\&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?logo=openpgp\&logoColor=white) ![IOT Hacking](https://img.shields.io/badge/IOT_Hacking-000000?logo=openpgp\&logoColor=white)![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?logo=gnubash&logoColor=white) ![Python Scripting](https://img.shields.io/badge/Python%20Scripting-3776AB?logo=python&logoColor=white) ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?logo=protonvpn&logoColor=white)
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-B34A45?logo=burpsuite&logoColor=white)
-![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-3DDC84?logo=android&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-6E5494?logo=torbrowser&logoColor=white)
-![Bug%20Bounty](https://img.shields.io/badge/Bug%20Bounty-FF4500?logo=hackthebox&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-000000?logo=ghidra&logoColor=white)
-![Binary Analysis](https://img.shields.io/badge/Binary%20Analysis-5C2D91?logo=visualstudio&logoColor=white)
-![Exploit Development](https://img.shields.io/badge/Exploit%20Development-B71C1C?logo=redhat&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-212121?logo=virustotal&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FC3E00?logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-8E24AA?logo=windowsterminal&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-1976D2?logo=windows&logoColor=white)
-![Radare2](https://img.shields.io/badge/Radare2-607D8B?logo=radar&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly%20Language-333333?logo=amd&logoColor=white)
-
-
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-B34A45?logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-6F2066?logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-0478C7?logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-EE0000?logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-D23539?logo=tenable&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-FC3E00?logo=ghidra&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-6E5494?logo=torbrowser&logoColor=white) ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF4500?logo=hackthebox&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-000000?logo=ghidra&logoColor=white) ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-212121?logo=virustotal&logoColor=white)
 
 ---
 
 ## 💼 Projects
 
-| Project Name     | Description                    | Tech Stack                                               | Link           |
-| ---------------- | ------------------------------ | -------------------------------------------------------- | -------------- |
-| **SEP Drive**    | Ride-sharing app (Uni Project) | Spring Boot, Angular, WebSocket, JWT, Docker, PostgreSQL | *[SEP-Drive](https://github.com/INagy80/SEP-Drive)* |
-| **Husarion_Panther** | autonomous exploration and Navigation robot | ros2, Nav2 stack, explore_lite, rviz, gazebo, python, c++| *[Husarion_Panther](https://github.com/INagy80/Husarion_Panther)* |
+### Freelance / Production
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **Café Cordes** | Production ordering & operations platform for a local café — online ordering, custom cake requests, admin panel | Next.js, TypeScript, PostgreSQL, Stripe, AWS S3, Playwright | [cordes-cafe.de](https://www.cordes-cafe.de) |
+| **3D Anoubis** | Multilingual e-commerce & membership platform for 3D-printed products with AI-assisted live chat | Angular SSR, Spring Boot, PostgreSQL, Redis, Docker, n8n | [anoubis-store.com](https://www.anoubis-store.com/shop) |
+| **Cyber Anoubis** | Business platform for a cybersecurity company — customer dashboard, consultation booking, AI chat | Angular SSR, Spring Boot, Stripe, GitHub Actions, Prometheus/Grafana | [anoubis-cyber.com](https://www.anoubis-cyber.com) |
+| **EMRX Sicherheit** | Lead-generation website for a security services company with hardened contact form & local SEO | Angular SSR, Express, Zod, Railway | [emrxsicherheit.de](https://emrxsicherheit.de) |
+
+### Academic / Personal
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **Autonomous Mobile Robot** | Bachelor project: full ROS2 navigation pipeline for a Husarion Panther UGV — SLAM, EKF, A*, frontier-based exploration, Nav2 | ROS2 Humble, Python, SLAM Toolbox, Nav2, Gazebo | *[Husarion_Panther](https://github.com/INagy80/Husarion_Panther)* |
+| **SEP-Drive** | Ride-sharing app (university project, team lead) — real-time simulation, payments, chat | Spring Boot, Angular, WebSocket, JWT, Docker, PostgreSQL | *[SEP-Drive](https://github.com/INagy80/SEP-Drive)* |
+| **Autonomous Security Research Drone** | Drone with 3D LiDAR + depth camera for SLAM-based area mapping, streamed to a cloud LLM for analysis — security research prototype | ROS2, Python, SLAM Toolbox, AWS, LLM APIs | *In development* |
+| **Mario CV Controller** | Modified a game engine to control character movement via webcam hand/head tracking | Python, OpenCV, MediaPipe | *[Mario](https://github.com/INagy80/Mario)* |
 
 > 🚧 More projects coming soon!<br>
 > 🔗 *Links to repos will be updated here.*
@@ -98,8 +93,9 @@
 
 ## 🎓 Certifications & Education
 
-* 🎯 Working towards **CEH** & **CCNA**
-* 🎓 Final-year **B.Sc. Software Engineering**, University of Duisburg-Essen
+* 🎓 Final-year **B.Sc. Software Engineering**, University of Duisburg-Essen (expected 2027)
+* ☁️ AWS Cloud Practitioner, AWS DevOps Engineer, AWS Solutions Architect — *courses*
+* 🎯 Working towards **CompTIA A+** & **CCNA**
 
 ##
 ![practical_ethical_hacking_cert](Certificates/Practical%20Ethical%20hacking.png)
@@ -111,11 +107,12 @@
 
 ---
 
-## 🌱 What I’m Learning
+## 🌱 What I'm Learning
 
+* **Kubernetes** orchestration & **Kafka**-based microservice communication at scale
 * Advanced **penetration testing** techniques & tools
 * **Cloud security** on AWS
-* **Network protocols** & **cryptography** deep dives
+* **AI-assisted automation** (n8n workflows, LLM integration) in production systems
 
 ---
 
@@ -135,23 +132,13 @@
 
 <br/>
 
-###
-
-###
-
 <br clear="both">
 
 ![snake gif](https://github.com/INagy80/INagy80/blob/main/assets/snake.svg)
 
-###
-
-
 ---
 
-
 ## 📫 Contact
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ibrahim-sayed-85b624314/" target="_blank">
@@ -165,13 +152,11 @@
   </a>
 </div>
 
-###
-
 ---
 
-<h3> -> "Ethical hacking is not just a skill. it's a mindset." </h3>
+<h3 align="center"> -> "Ethical hacking is not just a skill. It's a mindset." </h3>
 
---- 
+---
 
 <br/>
 <h1 align="center">
