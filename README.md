@@ -75,7 +75,7 @@
 | **Café Cordes** | Production ordering & operations platform for a local café — online ordering, custom cake requests, admin panel | Next.js, TypeScript, PostgreSQL, Stripe, AWS S3, Playwright | [cordes-cafe.de](https://www.cordes-cafe.de) |
 | **3D Anoubis** | Multilingual e-commerce & membership platform for 3D-printed products with AI-assisted live chat | Angular SSR, Spring Boot, PostgreSQL, Redis, Docker, n8n | [anoubis-store.com](https://www.anoubis-store.com/shop) |
 | **Cyber Anoubis** | Business platform for a cybersecurity company — customer dashboard, consultation booking, AI chat | Angular SSR, Spring Boot, Stripe, GitHub Actions, Prometheus/Grafana | [anoubis-cyber.com](https://www.anoubis-cyber.com) |
-| **EMRX Sicherheit** | Lead-generation website for a security services company with hardened contact form & local SEO | Angular SSR, Express, Zod, Railway | [emrxsicherheit.de](https://emrxsicherheit.de) |
+| **EMRX Sicherheit** | Lead-generation website for a security services company with hardened contact form & local SEO | Angular SSR, Express, Zod, Railway | [emrxsicherheit.com](https://emrxsicherheit.com) |
 
 ### Academic / Personal
 
